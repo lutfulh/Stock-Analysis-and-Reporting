@@ -53,6 +53,10 @@ Response:
     "analysis": "Based on the information provided, the stock 0R2V.LON experienced a simple return of -2.19% on 2024-01-03. This indicates that the stock's value decreased by 2.19% on that particular day. \n\nA negative return suggests that investors may have sold off shares, causing the stock price to decline. This could be due to various factors such as unfavorable market conditions, poor company performance, or negative news surrounding the stock. \n\nWhen considering the implications for future trading sessions, it is important to note that a single day's performance may not be indicative of long-term trends. It is essential to analyze the stock's performance over a longer period to gain a more comprehensive understanding. Monitoring the stock"
 }
 
+![llm1](https://github.com/lutfulh/Stock-Analysis-and-Reporting/assets/25671509/d66f57ef-7fb4-4ba7-9dd5-269f61afd6cf)
+
+
+
 Direct GPT-3 Interaction Endpoint:
 
 
@@ -61,6 +65,8 @@ Content-Type: application/json
 {
     "prompt": "Your custom prompt for GPT-3"
 }
+
+
 
 License
 MIT License
